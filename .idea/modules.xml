@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/_1_basic_topics/_1_basic_topics.iml" filepath="$PROJECT_DIR$/_1_basic_topics/_1_basic_topics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2_datatypes/_2_datatypes.iml" filepath="$PROJECT_DIR$/_2_datatypes/_2_datatypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/kotlin-journey.iml" filepath="$PROJECT_DIR$/kotlin-journey.iml" />
     </modules>
   </component>
